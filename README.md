@@ -1,4 +1,4 @@
-Cafe Management System
+#Cafe Management System
 Description
 This is a simple cafe management system that allows users to place orders, specify the quantity, and generate a final bill. Once all items are ordered, typing "done" will show the total bill based on the ordered items and their quantities.
 
