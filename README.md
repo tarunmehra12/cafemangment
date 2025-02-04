@@ -1,13 +1,27 @@
-#Cafe Management System
-Description
-This is a simple cafe management system that allows users to place orders, specify the quantity, and generate a final bill. Once all items are ordered, typing "done" will show the total bill based on the ordered items and their quantities.
+# ☕ Cafe Management System
 
-Features
-Place Order: Order items from the menu and specify the quantity.
-View Order Summary: See the items and quantities ordered.
-Generate Bill: After typing "done," the system will calculate and show the total bill.
-How to Use
-Run the program.
-Select items from the menu and specify the quantity.
-Type done when you've finished ordering.
-The system will show a bill with the ordered items and their total price.
+A simple **Cafe Management System** built using **Python** that allows users to order items, displays the quantity ordered, and generates a bill when the user types `'done'`.
+
+---
+
+## 📌 Features
+
+✅ User can **order items** from the menu  
+✅ Displays **total quantity & price** of ordered items  
+✅ Generates a **final bill** when the user types `'done'`  
+✅ Simple **text-based interface** for easy use  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python** (Core functionality)  
+
+---
+
+## 🚀 How to Run
+
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/tarunmehra12/cafe-management.git
+   cd cafe-management
