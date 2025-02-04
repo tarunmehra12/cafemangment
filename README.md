@@ -23,5 +23,4 @@ A simple **Cafe Management System** built using **Python** that allows users to 
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/tarunmehra12/cafe-management.git
-   cd cafe-management
+   gitq clone https://github.com/tarunmehra12/cafemangment.git
